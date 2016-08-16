@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<operators name="classilist" version="6.0" docbundle="org/classilist/rapidminer/resources/i18n/OperatorsDocClassilist">
+     <group key="classilist_group">
+        
+           <operator>
+              <key>classilist_connector</key>
+              <class>org.classilist.rapidminer.operator.Classilist</class>
+              <icon>ico.png</icon>
+           </operator>
+    </group>
+</operators>
